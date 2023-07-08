@@ -16,7 +16,7 @@ export function defaultSetting(): UserState {
   return {
     userInfo: {
       avatar: 'https://raw.githubusercontent.com/foxtwobao/chatgpt-web/main/src/assets/avatar.jpg',
-      name: '郑问肖答',
+      name: '郑问杜答',
       description: 'Star on <a href="https://github.com/foxtwobao/chatgpt-bot" class="text-blue-500" target="_blank" >GitHub</a>',
     },
   }
